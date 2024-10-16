@@ -1,3 +1,5 @@
-You can view the live site here:
+# Simple Grid Layout
 
-[View The Site](https://github.com/chamroy/simple-grid-layout/settings/pages)
+Welcome to my simple grid layout project! You can view the live site here:
+
+[View My Site](https://chamroy.github.io/simple-grid-layout)
